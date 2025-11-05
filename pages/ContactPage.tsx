@@ -58,7 +58,7 @@ const ContactPage: React.FC = () => {
                     
                     <div className="space-y-6 text-lg">
                         <div>
-                            <h3 className="text-xl font-bold text-dark">{t('footer.location')}</h3>
+                            <h3 className="text-xl font-bold text-dark">{t('newHere.location')}</h3>
                             <p className="text-gray-600">123 Community Lane<br/>Anytown, USA 12345</p>
                         </div>
                          <div>
